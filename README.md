@@ -47,38 +47,33 @@ At a glance:
 + Created a Plant Planet Plate Garden 
 + Hosted 1 "Forage and Feast" field trip with Enfants du Mékong
 + Built 2 plant presses from local materials for the Agri-Tech Centre
++ Prepared plant voucher speciments for the National Herbarium of Cambodia 
 + 
-+ Prepared 
 
 
 # Our Team
 
 **Ashley Thuthao Keng Dam (they/them/theirs)**
 Ashley Thuthao Keng Dam is a Khmer and Vietnamese American medical anthropologist, ethnobotanist, and food writer. 
-As a National Geographic Society explorer, Thao 
+Thao is a current National Geographic Explorer and the Prinicipal Investigator for this project -- this means they are involved in leading all things related to study design, data collection, and science communication. 
 
 **Muneezay Jaffery (she/her/hers)**
 
 **Saluth Loun (he/him/his)** 
 Saluth Loun is a local farmer and the Head Gardener of the Agri-Tech Centre’s growing spaces.
-Endlessly knowledgeable of local plant species and how to nourish them, he is the main caretaker of the Plant Planet Plate garden and its newly transplanted species.
-
+Endlessly knowledgeable of local plant species and how to nourish them, he is the main caretaker of the Plant Planet Plate garden, its newly transplanted species, and our new flock of ducklings.
 
 **Sarin Sak (he/him/his)**
-Sarin Sak is the former Project Manager of the Agri-Tech Centre. He has over 20 years of experience in community development and is a farmer himself, where he focuses on vegetable gardening, cultivating mushrooms, and raising pigs.
-Sarin provided invaluable insights as a research assistant and field translator. 
+Sarin Sak is the former Project Manager of the Agri-Tech Centre. He has over 20 years of experience in community development and is a farmer himself, where he focuses on vegetable gardening, cultivating mushrooms, and raising pigs.Sarin provided invaluable insights as a research assistant and field translator, in addition to his excellent sense of humor. 
+
 
 **Sreypich Chhun (she/her/hers)**
-
-Mr. 
 Sreypich Chhun is a master's student at the Royal University of Agriculture (Cambodia) majoring in Agricultural Extension. Also, she is a graduate research assistant supported by scholarship from the Center of Excellence on Sustainable Agricultural Intensification of Nutrition (CE SAIN). Under CE SAIN's project "S-3 Cambodia: Scaling Suitable Sustainable Technologies" framework she has conducted research for her thesis entitled "Assessment on Secondhand School Students' Knowledge and Perception Through the Training in Nutrition-based Wild Food plants Garden." Sreypich contributed to Plant Planet Plate as a research assistant, conducting both field translations and transcriptions. 
 
 
 # Our Community 
 
 Plant Planet Plate is composed of the stories and insights of people living across Oddar Meanchey province. We are grateful for all the knowledge, stories, and plant-centered moments that they shared with us. This would not be possible without their support and guidance! អរគុណច្រើន
-
-
 
 Plant Planet Plate has been generously funded by the ==National Geographic Society=={Q167186} under their Explorer Grant Scheme (Grant Number: EC-95284R-22). This study was given ethical clearance by the ==Universita degli Studi di Scienze Gastronomiche (University of Gastronomic Sciences)== {Q2523033} Ethics Committee through resolution on March 31st, 2022. 
 
