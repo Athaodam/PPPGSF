@@ -1,7 +1,7 @@
 <param ve-config 
        title="Plant Planet Plate"
        author="Ashley Thuthao Keng Dam, Ph.D. & Green Shoots Foundation "
-       banner=".ve-media WC:Ta_Prohm,_Angkor_30.jpg" 
+       banner=".ve-media wc:Ta_Prohm,_Angkor_30.jpg" 
        layout="vertical">
 
 
@@ -71,7 +71,7 @@ Sarin provided invaluable insights as a research assistant and field translator.
 **Sreypich Chhun (she/her/hers)**
 
 Mr. 
-Sreypich Chhun is a master's student at the Royal University of Agriculture (Cambodia) majoring in Agricultural Extension. Also, she is a graduate research assistant supported by scholarship from the Center of Excellence on Sustainable Agricultural Intensification of Nutrition (CE SAIN). Under CE SAIN's project "S-3 Cambodia: Scaling Suitable Sustainable Technologies" framework she has conducted research for her thesis entitled "Assessment on Secondhand School Students' Knowledge and Perception Through the Training in Nutrition-based Wild Food plants Garden." Sreypich contributed to Plant Planet Plate as a research assistant and field translator.
+Sreypich Chhun is a master's student at the Royal University of Agriculture (Cambodia) majoring in Agricultural Extension. Also, she is a graduate research assistant supported by scholarship from the Center of Excellence on Sustainable Agricultural Intensification of Nutrition (CE SAIN). Under CE SAIN's project "S-3 Cambodia: Scaling Suitable Sustainable Technologies" framework she has conducted research for her thesis entitled "Assessment on Secondhand School Students' Knowledge and Perception Through the Training in Nutrition-based Wild Food plants Garden." Sreypich contributed to Plant Planet Plate as a research assistant, conducting both field translations and transcriptions. 
 
 
 # Our Community 
