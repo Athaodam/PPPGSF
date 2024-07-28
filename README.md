@@ -1,7 +1,7 @@
 <param ve-config 
        title="Plant Planet Plate"
        author="Ashley Thuthao Keng Dam, Ph.D. & Green Shoots Foundation "
-       banner="WC:Ta_Prohm,_Angkor_30.jpg" 
+       banner=".ve-media WC:Ta_Prohm,_Angkor_30.jpg" 
        layout="vertical">
 
 
